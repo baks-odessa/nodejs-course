@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-course",
+  "version": "0.0.1",
+  "description": "Introduction course to nodejs",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "APP_PORT=4000 node app.js",
+    "watch": "APP_PORT=4000 nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baks-odessa/nodejs-course.git"
+  },
+  "keywords": [
+    "nodejs",
+    "course",
+    "javascript"
+  ],
+  "author": "Baks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baks-odessa/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/baks-odessa/nodejs-course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

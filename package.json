@@ -7,8 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "APP_PORT=4000 node app.js",
-    "watch": "APP_PORT=4000 nodemon app.js",
+    "start": "node app.js APP_PORT=4000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/baks-odessa/nodejs-course/issues"
   },
-  "homepage": "https://github.com/baks-odessa/nodejs-course#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.14"
-  }
+  "homepage": "https://github.com/baks-odessa/nodejs-course#readme"
 }

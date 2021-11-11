@@ -1,0 +1,26 @@
+2021-11-11 22:07:16 warn: Was get  unsupported url
+2021-11-11 22:07:16 warn: Was get  unsupported url
+2021-11-11 22:07:28 warn: Was get  unsupported url
+2021-11-11 22:15:57 warn: Was get  unsupported url
+2021-11-11 22:15:57 warn: Was get  unsupported url
+2021-11-11 22:25:02 warn: Was get  unsupported url
+2021-11-11 22:25:02 warn: Was get  unsupported url
+2021-11-11 22:25:05 warn: Was get  unsupported url
+2021-11-11 22:27:41 warn: {"requestMethod":"GET","requestUrl":"/favicon.ico","desc":"Was get  unsupported url"}
+2021-11-11 22:27:41 warn: {"requestMethod":"GET","requestUrl":"/favicon.ico","desc":"Was get  unsupported url"}
+2021-11-11 22:27:44 warn: {"requestMethod":"GET","requestUrl":"/asdas","desc":"Was get  unsupported url"}
+2021-11-11 22:27:44 warn: {"requestMethod":"GET","requestUrl":"/favicon.ico","desc":"Was get  unsupported url"}
+2021-11-11 22:32:20 warn: {"method":"GET","url":"/asdas","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:32:20 warn: {"method":"GET","url":"/favicon.ico","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:32:34 warn: {"method":"GET","url":"/asdas?t=1&ty=4","params":{"t":"1","ty":"4"},"desc":"Was get  unsupported url"}
+2021-11-11 22:32:34 warn: {"method":"GET","url":"/favicon.ico","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:33:04 warn: {"method":"GET","url":"/favicon.ico","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:46:13 error: Unexpected error: Unexpected end of JSON input.
+2021-11-11 22:46:37 error: Unexpected error: Unexpected end of JSON input.
+2021-11-11 22:46:41 warn: {"method":"GET","url":"/sdfds","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:46:41 warn: {"method":"GET","url":"/favicon.ico","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:47:30 warn: {"method":"GET","url":"/sdfds","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:47:52 warn: {"method":"POST","url":"/sdfds","params":{},"desc":"Was get  unsupported url"}
+2021-11-11 22:47:58 error: Unexpected error: Unexpected token p in JSON at position 0.
+2021-11-11 22:49:29 error: Unexpected error: Unexpected token p in JSON at position 0.
+2021-11-11 22:51:22 error: Unexpected error: Unexpected token p in JSON at position 0.
